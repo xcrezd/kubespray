@@ -1,3 +1,4 @@
+inventory/sample/hosts.ini
 .vagrant
 *.retry
 inventory/vagrant_ansible_inventory
