@@ -1,4 +1,4 @@
-![Kubernetes Logo](https://s28.postimg.org/lf3q4ocpp/k8s.png)
+![Kubernetes Logo](https://raw.githubusercontent.com/kubernetes-incubator/kubespray/master/docs/img/kubernetes-logo.png)
 
 Deploy a Production Ready Kubernetes Cluster
 ============================================
@@ -85,7 +85,7 @@ Versions of supported components
 -   [canal](https://github.com/projectcalico/canal) (given calico/flannel versions)
 -   [cilium](https://github.com/cilium/cilium) v1.0.0-rc8
 -   [contiv](https://github.com/contiv/install/releases) v1.1.7
--   [weave](http://weave.works/) v2.2.1
+-   [weave](http://weave.works/) v2.3.0
 -   [docker](https://www.docker.com/) v17.03 (see note)
 -   [rkt](https://coreos.com/rkt/docs/latest/) v1.21.0 (see Note 2)
 
